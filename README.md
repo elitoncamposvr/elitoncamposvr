@@ -1,7 +1,7 @@
 ### Olá! Eu sou Eliton Campos ✌️
 
 * 👨‍💻Hoje trabalho com front-end e back-end
-* 🧑‍🎓Estudante de Laravel e Vue-js
+* 🧑‍🎓Desenvolvedor de soluções em Laravel e Vue-js
 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://7upweb.com.br)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5566984151702)
